@@ -1,0 +1,8 @@
+pandas
+tensorflow
+nltk
+re
+sklearn
+matplotlib
+seaborn
+itertools
